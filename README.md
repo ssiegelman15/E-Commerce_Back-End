@@ -31,11 +31,15 @@ TBD
  
 ## Installation
 
-npm i
+Clone the repository to your computer.
 
 ## Usage
 
-TBD
+- Install the dependencies used in this application by running ```npm i``` in your terminal.
+- Navigate to the db folder, log into your MySQL CLI, and run ```SOURCE schema.sql;``` to load the database.
+- Navigate to the root of the application and run ```npm run seed``` in your terminal to seed the database.
+- Run ```npm start``` in your terminal to start the application.
+
 
 ## Contributing
 
