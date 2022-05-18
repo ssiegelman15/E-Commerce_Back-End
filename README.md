@@ -4,6 +4,8 @@
 
   ## Table of Contents
 - [Description](#description)
+- [Website in Action](#usage)
+- [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -14,6 +16,18 @@
 ## Description
 
 TBD
+
+## Website in Action
+
+![Walkthrough](./assets/Video_Walkthrough.gif)
+
+## Technologies
+Node.js
+Express.js
+Sequelize
+MySQL2
+Javascript
+DOTENV
 
 ## Installation
 
@@ -44,4 +58,3 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 
 For more info, please visit [MIT License](https://choosealicense.com/licenses/mit/).
-
