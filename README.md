@@ -22,13 +22,13 @@ TBD
 ![Walkthrough](./assets/Video_Walkthrough.gif)
 
 ## Technologies
-Node.js
-Express.js
-Sequelize
-MySQL2
-Javascript
-DOTENV
-
+- Node.js
+- Express.js
+- Sequelize
+- MySQL2
+- JavaScript
+- DOTENV
+ 
 ## Installation
 
 npm i
