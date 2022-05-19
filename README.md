@@ -4,7 +4,7 @@
 
   ## Table of Contents
 - [Description](#description)
-- [Website in Action](#website)
+- [Website in Action](#website in action)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
