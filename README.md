@@ -17,7 +17,7 @@
 
 This application functions as the back-end for an E-Commerce website using API Routes to Perform RESTful CRUD Operations.
 
-## Website in Action
+## Walkthrough
 
 Here's the link to a walkthrough video of this application in action!
 
