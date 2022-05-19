@@ -15,7 +15,7 @@
 
 ## Description
 
-This application functoins as the back-end for an E-Commerce website using API Routes to Perform RESTful CRUD Operations.
+This application functions as the back-end for an E-Commerce website using API Routes to Perform RESTful CRUD Operations.
 
 ## Website in Action
 
