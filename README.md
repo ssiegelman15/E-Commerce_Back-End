@@ -15,27 +15,31 @@
 
 ## Description
 
-TBD
+This application functoins as the back-end for an E-Commerce website using API Routes to Perform RESTful CRUD Operations.
 
 ## Website in Action
 
 ![Walkthrough](./assets/Video_Walkthrough.gif)
 
 ## Technologies
-Node.js
-Express.js
-Sequelize
-MySQL2
-Javascript
-DOTENV
-
+- Node.js
+- Express.js
+- Sequelize
+- MySQL2
+- JavaScript
+- DOTENV
+ 
 ## Installation
 
-npm i
+Clone the repository to your computer.
 
 ## Usage
 
-TBD
+- Install the dependencies used in this application by running ```npm i``` in your terminal.
+- Navigate to the db folder, log into your MySQL CLI, and run ```SOURCE schema.sql;``` to load the database.
+- Navigate to the root of the application and run ```npm run seed``` in your terminal to seed the database.
+- Run ```npm start``` in your terminal to start the application.
+
 
 ## Contributing
 
