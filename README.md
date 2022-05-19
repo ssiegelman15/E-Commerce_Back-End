@@ -19,7 +19,8 @@ This application functoins as the back-end for an E-Commerce website using API R
 
 ## Website in Action
 
-![Walkthrough](./assets/Video_Walkthrough.gif)
+Here's the link to a walkthrough video of this application in action!
+https://drive.google.com/file/d/1o-HtP9r_an2_pn8kOWChrBlZVIZ5-Dxu/view?usp=sharing
 
 ## Technologies
 - Node.js
